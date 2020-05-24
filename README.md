@@ -23,7 +23,7 @@ Sei es Radio, Fernsehen oder Zeitung mit Online-Portal: Jedes der Medien auf mei
 ![Hat Baar mehr als 20 Jahre weggeschaut?] 
 (https://www.luzernerzeitung.ch/zentralschweiz/zug/hat-baar-mehr-als-20-jahre-weggeschaut-ld.1168981)
 
-!(https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/ZZ_hat_Baar_weggeschaut.pdf)
+!(https://github.com/ZoeGwerder/Abschluss_Zoe/blob/master/Vergleichswert%20und%20Anzahl%20Firmen%20Stadt%20Zug.png)
 
 
 
