@@ -20,7 +20,9 @@ Sei es Radio, Fernsehen oder Zeitung mit Online-Portal: Jedes der Medien auf mei
 
 **Das grosse Ranking des Zuger Kantonsrats**: Arbeit während des CAS Datenjournalismus. Codes: **XXXXXXXXXXXXXXXXXXXX**
 ### Recherchen Print
-![**Hat Baar mehr als 20 Jahre weggeschaut?**] (https://www.luzernerzeitung.ch/zentralschweiz/zug/hat-baar-mehr-als-20-jahre-weggeschaut-ld.1168981)
+![Hat Baar mehr als 20 Jahre weggeschaut?] 
+(https://www.luzernerzeitung.ch/zentralschweiz/zug/hat-baar-mehr-als-20-jahre-weggeschaut-ld.1168981)
+
 !(https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/ZZ_hat_Baar_weggeschaut.pdf)
 
 
