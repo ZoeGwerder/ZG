@@ -8,10 +8,10 @@
  - Und meine neuste Leidenschaft - eine neue Welt für mich: Daten selber beschaffen. Scrapen, putzen, analysieren und darstellen. 
 
 ## Weshalb?
-Denn sei es Radio, Fernsehen oder Zeitung: Jedes der Medien auf meiner journalistischen Laufbahn übt auf mich seinen eigenen Reiz aus. So vermisste ich auch bei jedem Wechsel des Mediums einige dessen positiven Eigenheiten. Und nach meinem CAS in Datenjournalismus ist mir klar, dass ich auch diese Arbeitsweise vermissen  würde, könnte ich sie nicht weiter betreiben und weiterentwickeln. Denn die Welt, die sich für mich hier aufgetan hat - Daten und Erkenntnisse zu publizieren, die keine offizielle STelle so ermittelt - gibt mir die Möglichkeit, den Finger auf neue Themen zu legen, und Thesen eigenständig abzuklären. 
+Sei es Radio, Fernsehen oder Zeitung mit Online-Portal: Jedes der Medien auf meiner journalistischen Laufbahn übt auf mich seinen eigenen Reiz aus. Meine jüngste Ausbildung als Datenjournalistin bringt eine weiter Dimension und Arbeitsweise hinzu, welche ich nicht mehr missen möchte. Dies alles zu vereinen ist seit längerem mein Bestreben. Die Stelle als Datenjournalistin beim Schweizer Radio und Fernsehen SRF ist entsprechend perfekt für mich. 
 
 ## Womit?
-**Für SRF Data** bringe ich neben meiner jüngsten Ausbildung als Datenjournalistin und meiner 15-jährigen Erfahrung als Journalistin im Allgemeinen, Erfahrung aus mehreren Jahren in Nachrichtenredaktionen von Radio Sunshine, vom Zentralschweizer Fernsehen Tele 1,  sowie als Reporterin mit Schwerpunkt Recherche bei der Zuger Zeitung mit.   
+**Für SRF Data** bringe ich neben meiner jüngsten Ausbildung als Datenjournalistin am MAZ und meiner 15-jährigen Erfahrung als Journalistin im Allgemeinen, Erfahrung aus mehreren Jahren in Nachrichtenredaktionen von Radio Sunshine, vom Zentralschweizer Fernsehen Tele 1,  sowie als Reporterin mit Schwerpunkt Recherche bei der Zuger Zeitung mit. Live-on-Tape und Standups am TV wie auch Live-Situationen im Radio sind für mich nichts Neues. Die kürzlich erlangten Fähigkeiten in der Datenrecherche möchte ich vertiefen und weiterentwickeln. Neues zu entdecken und an der Zukunft von SRF zu bauen - wobei Datenjournalismus wohl ein wichtiger Teil diese Zukunft ist - ist mein Bestreben.    
 
 
 ## Was?
