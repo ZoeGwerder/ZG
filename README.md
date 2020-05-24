@@ -17,7 +17,7 @@ Sei es Radio, Fernsehen oder Zeitung mit Online-Portal: Jedes der Medien auf mei
 ## Was?
 ### Arbeitsproben Datenjournalismus: 
 **Zug und die Briefkastenfirmen: die Schattenseiten des Erfolgs**: Ergebnis der Abschlussarbeit des CAS Datenjournalismus am MAZ.
-![Briefkastenfirmen] (https://www.luzernerzeitung.ch/zentralschweiz/zug/zug-und-die-briefkastenfirmen-die-schattenseiten-des-erfolgs-ld.1210007)
+[Briefkastenfirmen] (https://www.luzernerzeitung.ch/zentralschweiz/zug/zug-und-die-briefkastenfirmen-die-schattenseiten-des-erfolgs-ld.1210007)
 
 Dokumentation und Codes: https://github.com/ZoeGwerder/Abschluss_Zoe
 
