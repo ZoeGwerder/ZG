@@ -1,4 +1,4 @@
-# Zoe und SRF Data, Datenjournalistin mit technischer Expertise
+# Zoe Gwerder als Datenjournalistin mit technischer Expertise
 
 ## Wieso Datenjournalismus bei SRF Data?
 ### SRF Data führt meine neuste Leidenschaft mit meinen Langjährigen zusammen
