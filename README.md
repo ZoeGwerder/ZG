@@ -15,11 +15,11 @@ Sei es Radio, Fernsehen oder Zeitung mit Online-Portal: Jedes der Medien auf mei
 
 
 ## Was?
-### Recherchen Datenjournalismus: 
+### Arbeitsproben Datenjournalismus: 
 **Zug und die Briefkastenfirmen: die Schattenseiten des Erfolgs**: Ergebnis der Abschlussarbeit des CAS Datenjournalismus am MAZ. Dokumentation und Codes: https://github.com/ZoeGwerder/Abschluss_Zoe
 
 **Das grosse Ranking des Zuger Kantonsrats**: Arbeit während des CAS Datenjournalismus. Codes: **XXXXXXXXXXXXXXXXXXXX**
-### Recherchen Print
+### Arbeitsprobe Recherchen Print
 ![Hat Baar weggeschaut](https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/Bild%20Villiger.PNGs=50)
 
 ![Hat Baar weggeschaut](https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/ZZ_hat_Baar_weggeschaut.pdf)
