@@ -19,14 +19,15 @@ Sei es Radio, Fernsehen oder Zeitung mit Online-Portal: Jedes der Medien auf mei
 - **Zug und die Briefkastenfirmen: die Schattenseiten des Erfolgs**: Ergebnis der Abschlussarbeit des CAS Datenjournalismus am MAZ. [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/zug-und-die-briefkastenfirmen-die-schattenseiten-des-erfolgs-ld.1210007) und [Dokumentation der Arbeit mit Codes](https://github.com/ZoeGwerder/Abschluss_Zoe)
 
 
-**Das grosse Ranking des Zuger Kantonsrats**: Arbeit während des CAS Datenjournalismus. Codes: **XXXXXXXXXXXXXXXXXXXX**
+**Das grosse Ranking des Zuger Kantonsrats**: Arbeit während des CAS Datenjournalismus. [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/das-grosse-ranking-des-zuger-kantonsrats-ld.1180528) und [Codes] **XXXXXXXXXXXXXXXXXXXX**
 ### Arbeitsprobe Recherchen Print
 
 ![Hat Baar weggeschaut](https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/Bild%20Villiger.PNGs=50)
 
 ![Hat Baar weggeschaut](https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/ZZ_hat_Baar_weggeschaut.pdf)
 
-
-
+### Arbeitsproben TV als Videojournalistin
+- **Die umstrittene Stiftung von Yvette Estermann** [Beitrag Nachrichten Tele1](https://www.dropbox.com/s/2o8egjjciory9bv/Umstrittene%20Stiftrung%20Yvette%20Estermann.mp4?dl=0) 
+- **
 
 
