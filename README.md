@@ -29,7 +29,7 @@ Sei es Radio, Fernsehen oder Zeitung mit Online-Portal: Jedes der Medien auf mei
 
 ### Arbeitsproben TV
 - **Prozess gegen Zuger Naturschützer** [VJ-Beitrag Nachrichten Tele1 mit Stand-Up](https://www.dropbox.com/s/vll5m2bwnqhyut5/Prozess%20Natursch%C3%BCtzer.mp4?dl=0) vom Juni 2015
-- **Wahlen 2011** mit [Live-on-Tape-Schaltung: Gespräch mit Verlierer und Gewinner (ab 02:18)](https://www.dropbox.com/s/nesloxsbedh41tt/Wahlen%202011%20live%20Interview.mp4?dl=0)
+- **Wahlen 2011** Live-on-Tape-Schaltung: [Gespräch mit Verlierer und Gewinner (ab 02:18)](https://www.dropbox.com/s/nesloxsbedh41tt/Wahlen%202011%20live%20Interview.mp4?dl=0)
 
 ### Arbeitsproben Radio
 - **Nachrichtenbulletin** [Nachrichten Radio Sunshine 2010](https://www.dropbox.com/s/bctbi3ga06gdtom/News%2016Uhr%20200710.mp3?dl=0)
