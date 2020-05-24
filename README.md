@@ -20,7 +20,7 @@ Sei es Radio, Fernsehen oder Zeitung mit Online-Portal: Jedes der Medien auf mei
 
 **Das grosse Ranking des Zuger Kantonsrats**: Arbeit während des CAS Datenjournalismus. Codes: **XXXXXXXXXXXXXXXXXXXX**
 ### Recherchen Print
-![Hat Baar weggeschaut](https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/Bild%20Villiger.PNG)
+![Hat Baar weggeschaut](https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/Bild%20Villiger.PNG  | width=100)
 
 ![Hat Baar weggeschaut](https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/ZZ_hat_Baar_weggeschaut.pdf)
 
