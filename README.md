@@ -22,12 +22,14 @@ Sei es Radio, Fernsehen oder Zeitung mit Online-Portal: Jedes der Medien auf mei
 **Das grosse Ranking des Zuger Kantonsrats**: Arbeit während des CAS Datenjournalismus. [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/das-grosse-ranking-des-zuger-kantonsrats-ld.1180528) und [Codes] **XXXXXXXXXXXXXXXXXXXX**
 ### Arbeitsprobe Recherchen Print
 
-![Hat Baar weggeschaut](https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/Bild%20Villiger.PNGs=50)
+[Hat Baar weggeschaut](https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/ZZ_hat_Baar_weggeschaut.pdf)
 
-![Hat Baar weggeschaut](https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/ZZ_hat_Baar_weggeschaut.pdf)
+### Arbeitsproben TV
+- **Prozess gegen Zuger Naturschützer** [VJ-Beitrag Nachrichten Tele1 mit Stand-Up](https://www.dropbox.com/s/vll5m2bwnqhyut5/Prozess%20Natursch%C3%BCtzer.mp4?dl=0) vom Juni 2015
+- **Wahlen 2011** mit [Live-on-Tape-Schaltung: Gespräch mit Verlierer und Gewinner (ab 02:18)](https://www.dropbox.com/s/nesloxsbedh41tt/Wahlen%202011%20live%20Interview.mp4?dl=0)
 
-### Arbeitsproben TV als Videojournalistin
-- **Die umstrittene Stiftung von Yvette Estermann** [Beitrag Nachrichten Tele1](https://www.dropbox.com/s/2o8egjjciory9bv/Umstrittene%20Stiftrung%20Yvette%20Estermann.mp4?dl=0) 
-- **
+### Arbeitsproben Radio
+- **Nachrichtenbulletin** [Nachrichten Radio Sunshine 2010](https://www.dropbox.com/s/bctbi3ga06gdtom/News%2016Uhr%20200710.mp3?dl=0)
+- **News-Beitrag** [Radiobeitrag Radio Sunshine 2010](https://www.dropbox.com/s/k8ulblqfv0hne17/Chollerhalle.mp3?dl=0)
 
 
