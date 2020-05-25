@@ -3,7 +3,7 @@
 ## Wieso Datenjournalismus bei SRF Data?
 ### SRF Data führt meine neuste Leidenschaft mit meinen Langjährigen zusammen
  - Meine Leidenschaft fürs Recherchieren, um Missstände aufzudecken und Ungereimtheiten publik zu machen.
- - Meine Leidenschaft fürs Fernsehen - Geschichten für Bild und Ton erarbeiten, vom Storyboard bis in den Cut.   
+ - Meine Leidenschaft fürs Fernsehen - Geschichten mit Bild und Ton zu erarbeiten, vom Storyboard bis in den Cut.   
  - Meine Leidenschaft fürs Radio - Bilder im Kopf zu erschaffen, in einfacher Sprache verständlich ans Publikum zu bringen.
  - Und meine neuste Leidenschaft - eine neue Welt für mich: Daten selber beschaffen. Scrapen, putzen, analysieren und darstellen. 
 
@@ -11,7 +11,7 @@
 Sei es Radio, Fernsehen oder Zeitung mit Online-Portal: Jedes der Medien auf meiner journalistischen Laufbahn übt auf mich seinen eigenen Reiz aus. Meine jüngste Ausbildung als Datenjournalistin bringt eine weiter Dimension und Arbeitsweise hinzu, welche ich nicht mehr missen möchte. Dies alles zu vereinen ist mein Bestreben. Die Stelle als Datenjournalistin beim Schweizer Radio und Fernsehen SRF ist entsprechend perfekt für mich. 
 
 ## **Was** biete ich SRF Data?
-Neben meinem CAS in Datenjournalismus und meiner 15-jährigen Erfahrung als Journalistin im Allgemeinen, bringe ich Erfahrung aus mehreren Jahren in Nachrichtenredaktionen von Radio Sunshine, vom Zentralschweizer Fernsehen Tele 1, sowie als Reporterin mit Schwerpunkt Recherche bei der Zuger Zeitung mit. So sind mir Live-on-Tape- und Stand-Up-Aufnahmen am TV, wie auch Live-Situationen am Radio-Mikrofon vertraut. Das Öffentlichkeitsgesetz ist eines meiner liebsten Rechercheinstrumenten, was mir für Recherchen mit meiner kürzlich erlangten Fähigkeiten in der Datenrecherche als Grundlage dienen kann. Den Umgang mit Code-basierter Datenverarbeitung und Analyse möchte ich in meine Arbeit einbringen, routinieren, vertiefen und weiterentwickeln. Neues zu entdecken und an der Zukunft von SRF zu bauen - wobei Datenjournalismus wohl ein wichtiger Teil diese Zukunft ist - ist mein Bestreben.  
+Neben meinem CAS in Datenjournalismus und meiner 15-jährigen Erfahrung als Journalistin im Allgemeinen, bringe ich Erfahrung aus mehreren Jahren in Nachrichtenredaktionen von Radio Sunshine, dem Zentralschweizer Fernsehen Tele 1, sowie als Reporterin mit Schwerpunkt Recherche bei der Zuger Zeitung mit. So sind mir Live-on-Tape- und Stand-Up-Aufnahmen am TV, wie auch Live-Situationen am Radio-Mikrofon vertraut. Das Öffentlichkeitsgesetz ist eines meiner liebsten Rechercheinstrumenten, was mir für Recherchen mit meiner kürzlich erlangten Fähigkeiten in der Datenrecherche als Grundlage dienen kann. Den Umgang mit Code-basierter Datenverarbeitung und Analyse möchte ich in meine Arbeit einbringen, routinieren, vertiefen und weiterentwickeln. Neues zu entdecken und an der Zukunft von SRF zu bauen - wobei Datenjournalismus wohl ein wichtiger Teil diese Zukunft ist - ist mein Bestreben.  
 
 
 ## **Wie** sieht meine bisherige Arbeit aus?
@@ -34,5 +34,3 @@ Neben meinem CAS in Datenjournalismus und meiner 15-jährigen Erfahrung als Jour
 ### Arbeitsproben Radio
 - **Nachrichtenbulletin** [Nachrichten Radio Sunshine 2010](https://www.dropbox.com/s/bctbi3ga06gdtom/News%2016Uhr%20200710.mp3?dl=0)
 - **News-Beitrag** [Radiobeitrag Radio Sunshine 2010](https://www.dropbox.com/s/k8ulblqfv0hne17/Chollerhalle.mp3?dl=0)
-
-
