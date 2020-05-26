@@ -2,9 +2,8 @@
 
 ## Wieso Datenjournalismus bei SRF Data?
 ### SRF Data führt meine neuste Leidenschaft mit meinen Langjährigen zusammen
- - Meine Leidenschaft fürs Recherchieren, um Missstände aufzudecken und Ungereimtheiten publik zu machen.
- - Meine Leidenschaft fürs Fernsehen - Geschichten mit Bild und Ton zu erarbeiten, vom Storyboard bis in den Cut.   
- - Meine Leidenschaft fürs Radio - Bilder im Kopf zu erschaffen, in einfacher Sprache verständlich ans Publikum zu bringen.
+ - Meine Leidenschaft fürs Recherchieren, um Missstände aufzudecken, Ungereimtheiten publik zu machen und komplexe Sachverhalte verständlich darstellen.
+ - Meine Leidenschaft für Fernsehen und Radio - Geschichten mit Bild und Ton erzählen.   
  - Und meine neuste Leidenschaft - eine neue Welt für mich: Daten selber beschaffen. Scrapen, putzen, analysieren und darstellen. 
 
 ## **Weshalb** will ich zu SRF Data?
