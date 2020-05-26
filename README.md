@@ -1,4 +1,4 @@
-# Proben meiner bisherigen Arbeit:
+# Proben meines Schaffens:
 
 ### Datenjournalismus: 
 - **Zug und die Briefkastenfirmen: die Schattenseiten des Erfolgs**: Ergebnis der Abschlussarbeit des CAS Datenjournalismus am MAZ. [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/zug-und-die-briefkastenfirmen-die-schattenseiten-des-erfolgs-ld.1210007) und [Dokumentation der Arbeit mit Codes](https://github.com/ZoeGwerder/Abschluss_Zoe)
