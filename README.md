@@ -17,7 +17,7 @@
 - **Prozess gegen Zuger Naturschützer** [VJ-Beitrag Nachrichten Tele 1 mit Stand-Up](https://www.dropbox.com/s/vll5m2bwnqhyut5/Prozess%20Natursch%C3%BCtzer.mp4?dl=0) vom Juni 2015
 - **Wahlen 2011** Live-on-Tape-Schaltung: [Gespräch mit Verlierer und Gewinner (ab 02:18)](https://www.dropbox.com/s/nesloxsbedh41tt/Wahlen%202011%20live%20Interview.mp4?dl=0)
 - **Reportage: Unterwegs mit dem Tierarzt** [Reportage Tele 1](https://www.dropbox.com/s/zvwopt8gikqgfxd/Report-Unterwegs%20mit%20dem%20Tierarzt.mp4?dl=0)
-- **Portrait Jodelclub Wiesenberger** [VJ-Beitrag Nachrichten Tele 1] (https://www.dropbox.com/s/08pjnoou4bhmq56/Wiesenberger%20Portrait.mp4?dl=0)
+- **Portrait Jodelclub Wiesenberger** [VJ-Beitrag Nachrichten Tele 1](https://www.dropbox.com/s/08pjnoou4bhmq56/Wiesenberger%20Portrait.mp4?dl=0)
 - **Wahlen Zug: Kontrovers** Live-on-Tape-Sendung [Produktion/Organisation Kontrovers Tele 1](https://www.dropbox.com/s/lp5839ty2hasdqu/Kontrovers%20Wahlen%20Zug.mp4?dl=0)
 
 ### Radio
