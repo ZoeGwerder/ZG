@@ -13,8 +13,11 @@
 - **Dies sind die Abgänge in den Zuger Direktionen** Zahlen-Recherche für die Zuger Zeitung [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/dies-sind-die-abgaenge-in-den-zuger-direktionen-ld.1167538) und [Publikation Print](https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/ZZ_Abg%C3%A4nge%20Regierung.pdf)
 
 ### TV
-- **Prozess gegen Zuger Naturschützer** [VJ-Beitrag Nachrichten Tele1 mit Stand-Up](https://www.dropbox.com/s/vll5m2bwnqhyut5/Prozess%20Natursch%C3%BCtzer.mp4?dl=0) vom Juni 2015
+- **Prozess gegen Zuger Naturschützer** [VJ-Beitrag Nachrichten Tele 1 mit Stand-Up](https://www.dropbox.com/s/vll5m2bwnqhyut5/Prozess%20Natursch%C3%BCtzer.mp4?dl=0) vom Juni 2015
 - **Wahlen 2011** Live-on-Tape-Schaltung: [Gespräch mit Verlierer und Gewinner (ab 02:18)](https://www.dropbox.com/s/nesloxsbedh41tt/Wahlen%202011%20live%20Interview.mp4?dl=0)
+- **Reportage: Unterwegs mit dem Tierarzt** [Reportage Tele 1] (https://www.dropbox.com/s/zvwopt8gikqgfxd/Report-Unterwegs%20mit%20dem%20Tierarzt.mp4?dl=0)
+- **Portrait Jodelclub Wiesenberger** [VJ-Beitrag Nachrichten Tele 1] (https://www.dropbox.com/s/08pjnoou4bhmq56/Wiesenberger%20Portrait.mp4?dl=0)
+- **Wahlen Zug: Kontrovers** Live-on-Tape-Sendung [Produktion/Organisation Kontrovers Tele 1]
 
 ### Radio
 - **Nachrichtenbulletin** [Nachrichten Radio Sunshine 2010](https://www.dropbox.com/s/bctbi3ga06gdtom/News%2016Uhr%20200710.mp3?dl=0)
