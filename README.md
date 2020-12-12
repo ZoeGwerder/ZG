@@ -1,6 +1,7 @@
 # Proben meines Schaffens:
 
 ### Datenjournalismus: 
+- **An diesen Zentralschweizer Bahnhöfen haben sich die Passagiere 2020 am meisten geärgert** Datenanalyse für Ch Media. [Publikation online] (https://www.luzernerzeitung.ch/zentralschweiz/zug/verspaetungen-an-diesen-zentralschweizer-bahnhoefen-haben-die-passagiere-sich-2020-am-meisten-geaergert-ld.2071870)
 - **Zug und die Briefkastenfirmen: die Schattenseiten des Erfolgs**: Ergebnis der Abschlussarbeit des CAS Datenjournalismus am MAZ. [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/zug-und-die-briefkastenfirmen-die-schattenseiten-des-erfolgs-ld.1210007) und [Dokumentation der Arbeit mit Codes](https://github.com/ZoeGwerder/Abschluss_Zoe)
 
 - **Das grosse Ranking des Zuger Kantonsrats**: Arbeit während des CAS Datenjournalismus. [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/das-grosse-ranking-des-zuger-kantonsrats-ld.1180528) und [Codes](https://github.com/ZoeGwerder/Kantonsrat-Ranking)
