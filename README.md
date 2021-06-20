@@ -8,8 +8,8 @@
 - **An diesen Zentralschweizer Bahnhöfen haben sich die Passagiere 2020 am meisten geärgert** Datenanalyse für CH Media. [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/verspaetungen-an-diesen-zentralschweizer-bahnhoefen-haben-die-passagiere-sich-2020-am-meisten-geaergert-ld.2071870)
 - **Das grosse Ranking des Zuger Kantonsrats** Arbeit während des CAS Datenjournalismus. [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/das-grosse-ranking-des-zuger-kantonsrats-ld.1180528) und [Codes](https://github.com/ZoeGwerder/Kantonsrat-Ranking)
 
-### Recherchen Print
-- **Wie der stiefmütterliche Umgang der Chamer Andreasklinik mit Schnelltests die Staatskasse belastet?** Recherche für die Zuger Zeitung [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/pandemie-der-stiefmuetterlicher-umgang-der-andreasklinik-mit-corona-schnelltest-ld.2107300) 
+### Recherchen Online/Print
+- **Wie der stiefmütterliche Umgang der Chamer Andreasklinik mit Schnelltests die Staatskasse belastet** Recherche für die Zuger Zeitung [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/pandemie-der-stiefmuetterlicher-umgang-der-andreasklinik-mit-corona-schnelltest-ld.2107300) 
 - **Die Consol Zug kämpft mit Personal- und Platzproblemen** Recherche teilweise mittels Öffentlichkeitsgesetz für die Zuger Zeitung
 [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/die-consol-kampft-um-platz-und-personal-ld.1122248)
 - **Die Führung der sozialen Institution Consol in Zug steht heftig in der Kritik** Folgegeschichte zur Consol für die Zuger Zeitung
