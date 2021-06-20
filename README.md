@@ -9,7 +9,6 @@
 
 ### Recherchen Print
 - **Wie der stiefmütterliche Umgang der Chamer Andreasklinik mit Schnelltests die Staatskasse belastet?** Recherche für die Zuger Zeitung [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/pandemie-der-stiefmuetterlicher-umgang-der-andreasklinik-mit-corona-schnelltest-ld.2107300) 
-https://www.luzernerzeitung.ch/zentralschweiz/zug/pandemie-der-stiefmuetterlicher-umgang-der-andreasklinik-mit-corona-schnelltest-ld.2107300
 - **Die Consol Zug kämpft mit Personal- und Platzproblemen** Recherche teilweise mittels Öffentlichkeitsgesetz für die Zuger Zeitung
 [Publikation online](https://www.luzernerzeitung.ch/zentralschweiz/zug/die-consol-kampft-um-platz-und-personal-ld.1122248) und [Publikation Print](https://github.com/ZoeGwerder/Zoe-und-SRF-Data/blob/master/ZZ_Consol_Platzmangel.pdf)
 - **Die Führung der sozialen Institution Consol in Zug steht heftig in der Kritik** Folgegeschichte zur Consol für die Zuger Zeitung
